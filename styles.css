@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+  font-family: helvetica, arial, sans-serif;
+}
+
+header {
+  background-color: aquamarine;
+  overflow: hidden;
+  padding: 0px 0px;
+
+}
+
+p {
+  float:left;
+  margin-right: 10px;
+  padding-top: 11px;
+  font-size: 16px;
+  font-family: helvetica, arial, sans-serif;
+  color: blue;
+  text-decoration: underline;
+}
+
+main {
+  width: 65%;
+  /*border: 10px solid green;*/
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  font-family: helvetica, arial, sans-serif;
+}
+
+h1 {
+  width: 100%;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+}
+
+#home.link {
+  color:blue;
+}
+
+#home.visited {
+  color: purple;
+}
+
+/*#home:visited {
+  color: purple;
+}*/
+
+.title {
+  float: left;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  margin-left: 20px;
+}
+
+.links {
+  float: right;
+  margin-right: 20px;
+}
+
+.intro-pic {
+  width: 100%;
+}
+
+.home-section {
+  background-color: blue;
+  float: left;
+}
+
+.home-div1 {
+  width: 62%;
+  float: left;
+}
+
+.home-div2 {
+  width: 32%;
+  float: left;
+  text-align: center;
+  padding-left: 40px;
+}
+
+.cats-section {
+  background-color: yellow;
+  overflow: hidden;
+  clear:both;
+}
+
+.second-par {
+  color:black;
+  text-decoration: none;
+}
+
+.third-par{
+  color:black;
+  text-decoration: none;
+}
+
+.fourth-par{
+  color:white;
+  text-decoration: none;
+}
+
+.products-section {
+  background-color: lightgrey;
+  overflow: hidden;
+  clear: both;
+}
+
+.about-section {
+  background-color: blue;
+  overflow: hidden;
+  clear: both;
+}
+
+.about-stuff {
+  color: hotpink;
+}
+
+.cat-pic {
+  width: 30%;
+  margin: 5px;
+  border: 2px solid black;
+}
+
+.cap-titles {
+  text-align: center;
+  display: inline-block;
+  width: 32%
+}
+
+footer {
+  background-color: aquamarine;
+  overflow: hidden;
+}
+
+h3 {
+  float: right;
+  padding-right: 20px;
+}
